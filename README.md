@@ -6,15 +6,13 @@ La interfaz está desarrollada mediante su software DGUS además de que se usó 
 
 En los archivos viene todo lo necesario para crear mi proyecto.
 
-Se usó el microcontrolador ATmega328p programado en el software Microchip Studio y el programador TL866II.
+Se usó la placa de desarrollo Arduino UNO programada con el software Arduino IDE.
 
 --- Materiales ---
 •	Protoboard
 •	Cables de conexión
-•	ATmega328p
-•	Cristal de cuarzo 16MHz
-•	Capacitores de 22pf
-•	Resistores 10k, 100 ohms
+•	Arduino UNO
+•	Resistores 100 ohms
 •	LED
 •	Pantalla LCD DMG80480C050_03W
 
